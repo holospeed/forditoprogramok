@@ -1,0 +1,15 @@
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/bin/Debug/net6.0/FordítóProgramok_I
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/bin/Debug/net6.0/FordítóProgramok_I.deps.json
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/bin/Debug/net6.0/FordítóProgramok_I.runtimeconfig.json
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/bin/Debug/net6.0/FordítóProgramok_I.dll
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/bin/Debug/net6.0/FordítóProgramok_I.pdb
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.csproj.AssemblyReference.cache
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.AssemblyInfoInputs.cache
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.AssemblyInfo.cs
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.csproj.CoreCompileInputs.cache
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.dll
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/refint/FordítóProgramok_I.dll
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.pdb
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/FordítóProgramok_I.genruntimeconfig.cache
+/Users/agcocorp/Projects/FordítóProgramok_I/FordítóProgramok_I/obj/Debug/net6.0/ref/FordítóProgramok_I.dll

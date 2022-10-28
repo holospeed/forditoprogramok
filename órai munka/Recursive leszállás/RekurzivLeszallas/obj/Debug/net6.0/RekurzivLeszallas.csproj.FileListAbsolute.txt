@@ -1,0 +1,15 @@
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/bin/Debug/net6.0/RekurzivLeszallas
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/bin/Debug/net6.0/RekurzivLeszallas.deps.json
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/bin/Debug/net6.0/RekurzivLeszallas.runtimeconfig.json
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/bin/Debug/net6.0/RekurzivLeszallas.dll
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/bin/Debug/net6.0/RekurzivLeszallas.pdb
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.csproj.AssemblyReference.cache
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.AssemblyInfoInputs.cache
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.AssemblyInfo.cs
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.csproj.CoreCompileInputs.cache
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.dll
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/refint/RekurzivLeszallas.dll
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.pdb
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/RekurzivLeszallas.genruntimeconfig.cache
+/Users/agcocorp/Projects/RekurzivLeszallas/RekurzivLeszallas/obj/Debug/net6.0/ref/RekurzivLeszallas.dll

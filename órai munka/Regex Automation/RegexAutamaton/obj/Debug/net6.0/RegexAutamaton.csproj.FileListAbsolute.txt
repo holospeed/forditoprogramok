@@ -1,0 +1,15 @@
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/bin/Debug/net6.0/RegexAutamaton
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/bin/Debug/net6.0/RegexAutamaton.deps.json
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/bin/Debug/net6.0/RegexAutamaton.runtimeconfig.json
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/bin/Debug/net6.0/RegexAutamaton.dll
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/bin/Debug/net6.0/RegexAutamaton.pdb
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.csproj.AssemblyReference.cache
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.AssemblyInfoInputs.cache
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.AssemblyInfo.cs
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.csproj.CoreCompileInputs.cache
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.dll
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/refint/RegexAutamaton.dll
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.pdb
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/RegexAutamaton.genruntimeconfig.cache
+/Users/agcocorp/Projects/RegexAutamaton/RegexAutamaton/obj/Debug/net6.0/ref/RegexAutamaton.dll
